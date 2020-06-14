@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/shiro?serverTimezone=UTC
+    username: root
+    password: root
+    type: com.alibaba.druid.pool.DruidDataSource
+mybatis:
+  type-aliases-package: com.example.shiortwodemo.pojo
+logging:
+  level:
+    com.example.shiortwodemo : debug
+  config: classpath:log4j2.yml

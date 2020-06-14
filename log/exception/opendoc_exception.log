@@ -1,0 +1,12 @@
+2020-06-12 10:56:42.299 -ERROR  [nio-8080-exec-4] c.e.s.w.TestController         : getExceptionLogger===日志测试
+2020-06-12 10:56:42.299 -ERROR  [nio-8080-exec-4] c.e.s.w.TestController         : getExceptionLogger===日志测试
+2020-06-12 14:12:54.889 -ERROR  [           main] s.ShiorTwoDemoApplicationTests : log4j2日志输出：This is error message.
+2020-06-12 14:12:54.890 -ERROR  [           main] s.ShiorTwoDemoApplicationTests : log4j2日志输出：This is error message.
+2020-06-12 14:12:54.890 -ERROR  [           main] s.ShiorTwoDemoApplicationTests : log4j2日志输出：This is error message.
+2020-06-12 14:12:54.890 -ERROR  [           main] s.ShiorTwoDemoApplicationTests : log4j2日志输出：This is error message.
+2020-06-12 14:12:54.891 -ERROR  [           main] s.ShiorTwoDemoApplicationTests : log4j2日志输出：This is error message.
+2020-06-12 14:12:54.891 -ERROR  [           main] s.ShiorTwoDemoApplicationTests : log4j2日志输出：This is error message.
+2020-06-12 14:12:54.891 -ERROR  [           main] s.ShiorTwoDemoApplicationTests : log4j2日志输出：This is error message.
+2020-06-12 14:12:54.892 -ERROR  [           main] s.ShiorTwoDemoApplicationTests : log4j2日志输出：This is error message.
+2020-06-12 14:12:54.892 -ERROR  [           main] s.ShiorTwoDemoApplicationTests : log4j2日志输出：This is error message.
+2020-06-12 14:12:54.892 -ERROR  [           main] s.ShiorTwoDemoApplicationTests : log4j2日志输出：This is error message.
